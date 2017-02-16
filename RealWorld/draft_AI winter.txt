@@ -1,0 +1,46 @@
+I was recently forwarded this article about the over-hype around AI, predictive analytics, and big data and a rather sensationalist headline of a new AI winter. It's a good article that is worth a read but I wanted to share my own thoughts in reaction to it.
+
+AI Winter
+
+For those of you that do not know your machine learning history, AI Winter refers to the end of two previous periods of hype around machine learning, or more specifically neural networks, and the subsequent long years in which funding for it dried up. It happened once in the 1970's, then again in the 1990's. Neural nets though sounding cool, were failing to live up to their hype.
+
+I can attest to this as I spent weeks training a neural net to play the 'Snake' game back in the early 2000's. My snake did eventually learn how to seek food and survive, after thousands of hours of head-butting the wall, but it got confused the moment you put it into a slightly bigger room and required re-training.
+
+
+            
+          
+
+            
+          
+
+            
+          
+
+            
+          
+
+            
+          
+
+As the story goes it was a stoic Geoffery Hinton, who after being rejected for funding in the US and moving to Canada, soldered on with neural nets until he and his small band of plucky PhD students brought an end to the AI Winter and years of being shunned by the mainstream AI community, by sensationalizing trouncing the worlds best scores in an image recognition competition in 2012, and then his disciples performed similar feats in other fields in subsequent years.
+
+A conflux of different technologies
+
+The article appears to use the metaphor of an AI-winter but apply it to analytics more broadly. It's main argument is that advanced analytics is only really applicable to certain problems at big companies where the effort is worth reward.
+
+"Just as it would be a waste to force a pipe tech only useful for big pipes onto all pipes, it can be a waste to push advanced prediction tech onto typical prediction tasks. And the fact that this new tech is mainly only useful on rare big problems suggests that its total impact will be limited."
+
+
+The proponent and critics
+
+The analytics genie is out of the bottle
+
+Digital Davids vs. Incumbent Goliaths
+
+A heaping of hype
+
+The author claims that
+
+Yes.
+
+Automation for the people
