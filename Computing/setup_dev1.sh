@@ -8,14 +8,14 @@ sudo apt-get -y upgrade
 pip3 install --upgrade pip
 pip install --upgrade pip
 sudo apt-get -y install ipython ipython-notebook
-sudo -H pip install jupyter 	
+sudo -H pip3 install jupyter 	
 
 echo "Creating virtual environment called dev1"
 sudo pip3 install virtualenv
 cd ~
 mkdir venvs
-cd ~/venv
-virtualenv --system-sitse-packages dev1
+cd ~/venvs
+virtualenv --system-site-packages dev1
 source dev1/bin/activate
 echo "Installing python data science modules"
 sudo apt-get install sqlite3
